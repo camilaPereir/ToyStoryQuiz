@@ -1,0 +1,142 @@
+{
+    "bg": "https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/toy-story-4/10062020/3840/background-toy-story-4.jpg",
+    "title": "Quiz CSS da Alura",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/1X8RHAt20BUtPYT2Wz/giphy.gif",
+        "title": "Qual personagem fala: Tem uma cobra na minha bota ?",
+        "description": "Essa é só pra aquecer",
+        "answer": 3,
+        "alternatives": [
+          "Buzz Lightyear",
+          "Rex",
+          "Betty",
+          "Woody"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/Rj51H8PkfX6HC/giphy.gif",
+        "title": "Quantos filmes de Toy Story já foram lançados",
+        "description": "Ainda tá fácil",
+        "answer": 1,
+        "alternatives": [
+          "2",
+          "4",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/FpcoYfQ5w1fkk/giphy.gif",
+        "title": "Qual personagem tem uma mola no corpo?",
+        "description": "Uma dica: au au",
+        "answer": 2,
+        "alternatives": [
+          "Porquinho",
+          "Lenny",
+          "Slinky",
+          "Mr. Spell"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/lv3axdBhk5tZe/giphy.gif",
+        "title": "O Buzz Lightyear no início acredita que ele é um...",
+        "description": "Essa é do primeiro filme hein",
+        "answer": 0,
+        "alternatives": [
+          "Patrulheiro Espacial",
+          "Cowboy",
+          "Brinquedo",
+          "Viajante do tempo"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13pT5ZMDTKiKJO/giphy.gif",
+        "title": "Em qual filme apareceu o personagem Garfinho?",
+        "description": "Tá moleza",
+        "answer": 1,
+        "alternatives": [
+          "No 2º filme",
+          "No 4º filme",
+          "No 1º filme",
+          "No 3º filme"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/lILAO1aMWTilmgqAkk/giphy.gif",
+        "title": "Onde o Garfinho ama ficar?",
+        "description": "Você tá demais, já passou da metade do quiz",
+        "answer": 0,
+        "alternatives": [
+          "Na lata de lixo",
+          "No quarto do Andy",
+          "Na casa do Sid",
+          "Em qualquer lugar"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/JJYEpMKBYBUDS/giphy.gif",
+        "title": "Qual brinquedo adota os Aliens?",
+        "description": "O Garra...! Tá fácil essa",
+        "answer": 2,
+        "alternatives": [
+          "O Rex",
+          "Betty",
+          "Sr. e a Sra. Cabeça de Batata",
+          "A Barbie"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/wcFlXfhyyyp0c/giphy.gif",
+        "title": "O Woody é um boneco que faz parte da coleção O Rodeio de Woody, quais outros brinquedos completam essa coleção?",
+        "description": "Puxa na memória, é lá do segundo filme",
+        "answer": 3,
+        "alternatives": [
+          "Jessie",
+          "Bala no alvo",
+          "Mineiro",
+          "Todas as opções"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/7V8vnH1ujyvyE/giphy.gif",
+        "title": "Quando o Andy vai para a faculdade, o que ele faz com os brinquedos?",
+        "description": "Amigo estou aqui",
+        "answer": 1,
+        "alternatives": [
+          "Leva os brinquedos com ele",
+          "Doa para uma criança",
+          "Vende os brinquedos",
+          "Deixa eles guardados no sotão"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/l4Ho77ZnvjRes42CA/giphy.gif",
+        "title": "Como o Garfinho é feito...?",
+        "description": "Parabéns, já está na última",
+        "answer": 2,
+        "alternatives": [
+           "Pela mãe da Bonnie com materiais novos;",
+           "Não foi feito, foi comprado;",
+           "Pela Bonnie na escola com sobras de lixo;",
+           "Pelo Andy na faculdade;"
+        ]
+      }
+    ],
+    "external": [
+      "https://aluraquiz-coffee.leonardot07.vercel.app/",
+      "https://lotr-quiz.filipe1309.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#252B51",
+        "secondary": "#139FDB",
+        "mainBg": "#380707",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
